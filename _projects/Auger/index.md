@@ -10,7 +10,7 @@ skills:
 - Computational Simulations
 - AutoCAD
 - SolidWorks
-main-image: /wat.jpg
+main-image: /wat.JPG
 ---
 
 # Project Overview  
