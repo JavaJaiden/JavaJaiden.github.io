@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: post
 title: AI-Powered Fact-Checking App in Swift
 description: Designed and developed an AI-powered fact-checking app in Swift that processes image-based queries and cross-verifies responses using both ChatGPT and Google Gemini APIs running simultaneously.
 order: 1 
