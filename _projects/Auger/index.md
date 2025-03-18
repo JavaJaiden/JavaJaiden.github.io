@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 797F Auger Drill Attachment (Wabtec Internship)
+order: 3
 description: Led a company-sponsored project through Penn State University in collaboration with Wabtec Corporation to 
    design and prototype an Auger Drill Attachment for 797F mining trucks.
 skills: 
