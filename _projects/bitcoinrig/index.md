@@ -28,7 +28,7 @@ Developed a **fact-checking mobile application in Swift** that processes **image
    - Analyzes AI-generated responses and **highlights discrepancies**, allowing users to compare sources.  
    - Generates a **confidence score** based on model agreement and source credibility.  
 
-{% include image-gallery.html images="unnamed.JPG" height="400" %}  
+{% include image-gallery.html images="unnamed.jpg" height="400" %}  
 - **Screenshot of the AI-powered fact-checking app running in Swift, displaying real-time query processing and AI validation.**  
 
 ## Technical Implementation  
