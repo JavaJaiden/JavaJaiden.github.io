@@ -16,8 +16,8 @@ main-image: /wat.jpg
 # Project Overview  
 Led a **company-sponsored project** through **Penn State University** in collaboration with **Wabtec Corporation** to design and prototype an **Auger Drill Attachment** for **Caterpillar 797F mining trucks**. This innovation **combines excavation and hauling into a single vehicle**, improving **efficiency, safety, and sustainability** in open-pit mining.  
 
-{% include image-gallery.html images="Project_4_poster.jpg" height="400" %}  
-- **Overview of the project, highlighting the challenges and proposed solution.**  
+{% include image-gallery.html images="Auger.jpg" height="400" %}  
+- **Background:** Wabtec's mining fleet lacks a vehicle capable of **both excavation and material transport**, leading to **inefficiencies and excessive operational costs**.  
 
 ## Problem Statement  
 Traditional mining requires **separate excavators and haul trucks**, resulting in:  
@@ -27,8 +27,8 @@ Traditional mining requires **separate excavators and haul trucks**, resulting i
 
 The **797F Auger Drill Attachment** transforms haul trucks into **self-sufficient mining units**, eliminating the need for additional excavation equipment.  
 
-{% include image-gallery.html images="Project_4_poster (1).jpg" height="400" %}  
-- **Concept sketch showing the integration of a drill, conveyor system, and protective guard.**  
+{% include image-gallery.html images="Auger(1).jpg" height="400" %}  
+- **Concept Sketch:** Auger drill attachment integrates a **conveyor system and protective guard**, optimizing efficiency.  
 
 ## Engineering & Design Process  
 ### **Path Modifications for Feasibility**  
@@ -39,7 +39,7 @@ The **797F Auger Drill Attachment** transforms haul trucks into **self-sufficien
 - Conducted stress simulations on **Aluminum, Steel, and Cast Iron**.  
 - **Cast Iron** proved to be the most **durable and effective material** for the drill attachment.  
 
-{% include image-gallery.html images="Project_4_poster (2).jpg" height="400" %}  
+{% include image-gallery.html images="Auger(2).jpg" height="400" %}  
 - **Analysis of different materials, confirming Cast Iron as the best option.**  
 
 ## Final Design & Prototype  
@@ -48,7 +48,7 @@ After testing, we finalized a design featuring:
 - **Drill Guard:** Prevents debris loss.  
 - **Conveyor System:** Transports mined material to the truck’s canopy.  
 
-{% include image-gallery.html images="Project_4_poster (3).jpg" height="400" %}  
+{% include image-gallery.html images="Auger(3).jpg" height="400" %}  
 - **Final Prototype:** Fully functional auger drill attachment, making the **797F independent during the mining process**.  
 
 ## Impact & Future Applications  
@@ -56,4 +56,3 @@ By integrating an auger drill attachment into the **797F mining truck**, this pr
 - **Greater efficiency** by eliminating the need for separate excavators.  
 - **Reduced emissions** in alignment with Wabtec’s **2030 zero-emission goal**.  
 - **Safer mining environments** by reducing vehicle congestion.  
-
