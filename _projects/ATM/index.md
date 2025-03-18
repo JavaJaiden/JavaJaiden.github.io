@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: ATM Banking System – Secure & Scalable Java Application
-description: Developed a secure ATM Banking System in Java, implementing JDBC for database interaction and leveraging generics for type safety, ensuring maintainable and scalable code.
+description: Developed a secure ATM Banking System in Java, implementing JDBC for database interaction and leveraging generics for type safety, ensuring maintainable and scalable code. 
 order: 5
 skills:
 - Java Development
