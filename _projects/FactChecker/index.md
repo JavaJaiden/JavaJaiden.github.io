@@ -1,4 +1,17 @@
-# Project Overview  
+---
+layout: post
+title: Bitcoin Mining Rig (Converting to AI Cluster)
+order: 2
+description: Engineered and maintained a large-scale crypto mining operation utilizing 32 NVIDIA RTX 3090 GPUs, gaining expertise in troubleshooting hardware issues, optimizing mining efficiency, and managing electrical load balancing for high-performance systems.
+skills: 
+- Time Management
+- Project Management
+- Initiative
+- Software Testing
+- Troubleshooting
+- Python
+main-image: /Resized_20211016_224731001.jpg
+---# Project Overview  
 Designed and managed a high-performance **Bitcoin mining rig** consisting of **32 NVIDIA RTX 3090 GPUs**, optimizing for **maximum efficiency and profitability**. Developed expertise in **troubleshooting hardware failures, optimizing power consumption, and managing large-scale computational loads**.  
 
 ---
