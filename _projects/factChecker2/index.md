@@ -10,7 +10,7 @@ skills:
 - Scalability & Load Balancing
 - System Optimization
 - Cloud Infrastructure
-main-image: /Host.JPG
+main-image: /Host.jpg
 github: https://github.com/JavaJaiden/quick_host
 ---
 
