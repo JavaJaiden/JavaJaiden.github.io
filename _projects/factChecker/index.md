@@ -11,7 +11,7 @@ skills:
 - Computational Simulations
 - AutoCAD
 - SolidWorks
-main-image: /Mine.png
+main-image: /Mine.jpg
 ---
 
 # Project Overview  
