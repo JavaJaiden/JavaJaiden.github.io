@@ -9,7 +9,7 @@ skills:
 - Object-Oriented Programming
 - Type Safety & Generics
 - Software Engineering
-main-image: /atm_banking_system.jpg
+main-image: /atm.JPG
 github: https://github.com/JavaJaiden/apcsAtm
 ---
 # Project Overview
