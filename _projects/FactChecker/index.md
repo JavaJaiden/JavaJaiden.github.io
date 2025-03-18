@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bitcoin Mining Rig (Converting to AI Cluster)
-order: 2
 description: Engineered and maintained a large-scale crypto mining operation utilizing 32 NVIDIA RTX 3090 GPUs, gaining expertise in troubleshooting hardware issues, optimizing mining efficiency, and managing electrical load balancing for high-performance systems.
+order: 2
 skills: 
 - Time Management
 - Project Management
