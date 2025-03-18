@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Fact Checker
-description:  Designed and developed an AI-powered fact-checking app in Swift that processes image-based queries and
-  cross-verifies responses using both ChatGPT and Google Gemini APIs with both running simultaneously.
+title: Bitcoin Mining Rig (Converting to AI cluster)
+description: Engineered and maintained a large-scale crypto mining operation utilizing 32 NVIDIA RTX 3090 GPUs, gaining     
+   expertise in troubleshooting hardware issues, optimizing mining efficiency, and managing electrical load balancing for high-performance 
+   systems.
 skills: 
-- Swift
-- LLMs
-- APIs
+- Time Management
+- Project Management
+- Initiative
 - Software Testing
 - Troubleshooting
-- App Developement
-
-main-image: /unnamed.jpg 
+- Python
+main-image: /Resized_20211016_224731001.jpg 
 ---
 # Key Contributions
 
