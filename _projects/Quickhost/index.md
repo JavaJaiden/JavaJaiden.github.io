@@ -29,9 +29,6 @@ Developed **Quick Host**, a high-performance **file hosting service** designed t
    - Ensured **99.97% uptime** by implementing **fault-tolerant architecture and redundant cloud storage**.  
    - Deployed **load balancing strategies** to distribute user requests efficiently.  
 
-{% include image-gallery.html images="quick_host_dashboard.jpg" height="400" %}  
-- **Quick Host API Dashboard displaying real-time analytics of file uploads, system performance, and concurrent user handling.**  
-
 ## Technical Implementation  
 ### **RESTful API Development & Backend Architecture**  
 - Developed API endpoints using **FastAPI (Python) & Flask**, ensuring **asynchronous request handling**.  
