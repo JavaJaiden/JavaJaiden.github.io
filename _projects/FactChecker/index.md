@@ -11,7 +11,8 @@ skills:
 - Troubleshooting
 - Python
 main-image: /Resized_20211016_224731001.jpg
----# Project Overview  
+---
+# Project Overview  
 Designed and managed a high-performance **Bitcoin mining rig** consisting of **32 NVIDIA RTX 3090 GPUs**, optimizing for **maximum efficiency and profitability**. Developed expertise in **troubleshooting hardware failures, optimizing power consumption, and managing large-scale computational loads**.  
 
 ---
