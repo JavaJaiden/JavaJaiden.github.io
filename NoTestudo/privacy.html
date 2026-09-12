@@ -12,7 +12,7 @@ h1{font-size:1.9em;margin-bottom:.2em}h2{font-size:1.25em;margin-top:1.6em}
 </head>
 <body>
 <h1>NoTestudo Privacy Policy</h1>
-<p class="meta">Effective date: September 10, 2026</p>
+<p class="meta">Effective date: September 12, 2026</p>
 
 <p>NoTestudo ("the app," "we") is a habit-tracking app that uses your device's
 location to help you understand and improve where you spend your time. This
@@ -37,6 +37,22 @@ visits are retrieved from Google Places to label your activity (for example
 settings you configure during onboarding and afterward.</li>
 <li><strong>Social features.</strong> If you join groups or leaderboards, your
 display name and time-based standings are visible to members of those groups.</li>
+<li><strong>Schedules and attendance.</strong> Classes and events you save include
+their dates, times, time zones and optional private map locations. We compare
+scheduled sessions with available visit records to estimate attendance and time
+spent there. We store recorded arrival and departure times, duration, and any
+attendance corrections you enter. Missing location data does not prove that you
+missed a class.</li>
+<li><strong>Optional Google Calendar connection.</strong> With your authorization,
+we read names, identifiers and time zones for calendars available to your Google
+account so you can choose which calendars to connect. For calendars you select,
+we read event titles, dates, times, recurrence details, cancellations and location text.
+You review which classes or events to save. We do not modify your Google Calendar
+events. Connection credentials are stored encrypted.</li>
+<li><strong>Optional schedule images.</strong> If you import a timetable picture,
+we send that image to Anthropic to extract schedule details for your review.
+Upload only the information needed for your schedule. You can also attach a
+class or event image, which is stored privately for your own use.</li>
 <li><strong>Purchases.</strong> Subscription status is processed by Apple and
 RevenueCat. We never see or store your payment card details.</li>
 </ul>
@@ -44,7 +60,7 @@ RevenueCat. We never see or store your payment card details.</li>
 <h2>How we use information</h2>
 <ul>
 <li>To provide the app's core features: visit tracking, stats, maps, journeys,
-goals, and group leaderboards.</li>
+goals, class and event attendance, and group leaderboards.</li>
 <li>To interpret goals and summarize activity. OpenRouter processes the goal
 text you enter to identify relevant categories. When AI summaries are enabled,
 Anthropic processes measured activity facts, which can include place names and
@@ -61,24 +77,43 @@ and coordinates before storage.</li>
 <h2>What we do not do</h2>
 <ul>
 <li>We do not sell your personal data.</li>
-<li>We do not share your precise location with other users. Group members see
-time-based standings, never your map or visit history.</li>
+<li>We do not share precise map coordinates or raw visit history through
+leaderboards or attendance sharing. Group leaderboards show time-based standings.
+Attendance sharing is a separate, optional feature described below.</li>
 <li>We do not use your data for third-party advertising.</li>
 </ul>
 
+<h2>Optional attendance sharing</h2>
+<p>Schedules are private by default. You can choose friends who may see a
+particular class or event's title, scheduled times, attendance status, recorded
+arrival and departure times, duration, and separately labeled corrections you
+enter. Sharing applies to sessions within the sharing period. Private map
+coordinates and attached images are not included. A class title or time can
+still reveal information about your routine.</p>
+<p>You can stop sharing in the app. Revoking access prevents further access
+through this feature; it cannot erase information a recipient already saw or
+copied.</p>
+
 <h2>Service providers</h2>
 <p>We rely on: Clerk (authentication), Convex (application backend and data
-storage), Google Places (place names and categories), OpenRouter (goal-text
-interpretation), Anthropic (daily and place activity summaries), Sentry (crash
+storage and private images), Google Places (place names and categories),
+Google Calendar (optional schedule import and synchronization), OpenRouter
+(goal-text interpretation), Anthropic (activity summaries and optional timetable
+image extraction), Sentry (crash
 and performance diagnostics), and RevenueCat and Apple (subscriptions).</p>
 
 <h2>Your controls</h2>
 <ul>
 <li><strong>Location permission</strong> is always under your control in iOS
 Settings; the app functions in a reduced mode without it.</li>
+<li><strong>Calendar and schedule controls.</strong> Disconnect Google Calendar
+to stop future synchronization and remove stored connection credentials. Classes
+and events already saved remain until you delete them. You can edit their map
+locations, remove attached photos, and change who can see attendance.</li>
 <li><strong>Account deletion</strong> is available in the app under Settings →
 Account. Deleting your account removes your visits, places, goals, groups,
-friends and profile from our servers first, then clears the data held on your
+friends, schedules, attendance, uploaded images and profile from our servers
+first, then clears the data held on your
 device. Apple and RevenueCat retain subscription
 records under their own policies.</li>
 <li><strong>Data questions</strong> — contact us at the address below and we
@@ -89,6 +124,13 @@ will help, including with access or deletion requests.</li>
 <p>Visit and goal data is retained while your account is active so your stats
 and history work. Deleting your account removes it. Redacted crash diagnostics
 are kept only as long as needed to fix the issue.</p>
+
+<p>Saved schedules and attached class or event images remain until removed or
+your account is deleted. Timetable images are temporary: we attempt to delete
+them after extraction, and expired or abandoned uploads enter cleanup. Failed
+deletions are retried rather than treated as complete. Removing a schedule also
+removes its sharing and attendance records and queues its attached image for
+cleanup. Deletion can require several processing steps.</p>
 
 <h2>Children</h2>
 <p>NoTestudo is not directed at children under 13, and we do not knowingly
