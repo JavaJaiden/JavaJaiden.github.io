@@ -12,7 +12,7 @@ h1{font-size:1.9em;margin-bottom:.2em}h2{font-size:1.25em;margin-top:1.6em}
 </head>
 <body>
 <h1>NoTestudo Privacy Policy</h1>
-<p class="meta">Effective date: September 12, 2026</p>
+<p class="meta">Effective date: September 14, 2026</p>
 
 <p>NoTestudo ("the app," "we") is a habit-tracking app that uses your device's
 location to help you understand and improve where you spend your time. This
@@ -142,6 +142,13 @@ them after extraction, and expired or abandoned uploads enter cleanup. Failed
 deletions are retried rather than treated as complete. Removing a schedule also
 removes its sharing and attendance records and queues its attached image for
 cleanup. Deletion can require several processing steps.</p>
+
+<p>To limit group invite-code guessing, we briefly keep attempt counts and an
+account-derived identifier, including after account deletion. These records
+contain no invite codes, profile details or location data and are used only for
+invite-abuse prevention. Their limits expire at the next daily reset (midnight
+UTC, within 24 hours); routine hourly cleanup removes expired records and
+continues in batches when needed.</p>
 
 <h2>Children</h2>
 <p>NoTestudo is not directed at children under 13, and we do not knowingly
